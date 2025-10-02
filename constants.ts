@@ -1,0 +1,17 @@
+export const LONDON_LOCATIONS: string[] = [
+  'Heathrow Airport (LHR)',
+  'Gatwick Airport (LGW)',
+  'Stansted Airport (STN)',
+  'Luton Airport (LTN)',
+  'London City Airport (LCY)',
+  'Central London (All Zones)',
+  'King\'s Cross Station',
+  'Paddington Station',
+  'Victoria Station',
+  'Waterloo Station',
+  'Canary Wharf',
+  'Shoreditch',
+  'Westminster',
+  'Kensington',
+  'Soho',
+];
